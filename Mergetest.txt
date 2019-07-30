@@ -1,1 +1,3 @@
 Merging new file into master
+
+Testing commit
